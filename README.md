@@ -9,11 +9,6 @@ VisionEye is an innovative, AI-powered smart glasses project designed to empower
 - [Innovative Solution](#innovative-solution)
 - [Technology Stack](#technology-stack)
 - [Patent](#patent)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
